@@ -1,1 +1,2 @@
 Test commit username, see the difference between Gitea and Github
+Changed username to same as GitHub and see the commit name if it links to the Github account.
